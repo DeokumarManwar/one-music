@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/one-music/static/css/main.7484efe2.css",
+    "main.js": "/one-music/static/js/main.0b171546.js",
+    "static/js/245.3c2d64ac.chunk.js": "/one-music/static/js/245.3c2d64ac.chunk.js",
+    "static/media/login_bg.mp4": "/one-music/static/media/login_bg.51c19c65c495f4b8ca53.mp4",
+    "static/media/logo.png": "/one-music/static/media/logo.be7f78416875c5001cd3.png",
+    "index.html": "/one-music/index.html",
+    "main.7484efe2.css.map": "/one-music/static/css/main.7484efe2.css.map",
+    "main.0b171546.js.map": "/one-music/static/js/main.0b171546.js.map",
+    "245.3c2d64ac.chunk.js.map": "/one-music/static/js/245.3c2d64ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7484efe2.css",
+    "static/js/main.0b171546.js"
+  ]
+}

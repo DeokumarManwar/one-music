@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmusicplayer=self.webpackChunkmusicplayer||[]).push([[245],{3245:function(e,a,c){c.r(a);c(2791);var s=c(184);a.default=function(){return(0,s.jsx)("div",{className:"text-white",children:"Please Contact onlinemusicplayerr@gmail.com"})}}}]);
+//# sourceMappingURL=245.3c2d64ac.chunk.js.map
